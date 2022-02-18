@@ -1,4 +1,6 @@
 # odinProject
 repo for odin project
 
-writing for test 
+documenting my odin Project journey
+
+test
